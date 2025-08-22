@@ -2,30 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Syed%20Muhammad%20Taqi%20Naqvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Mobile+Application+Developer;Flutter+Developer;Firebase+Specialist;Software+Engineering+Student;AI+Research+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Mobile+Application+Developer;⚡+Flutter+%26+Firebase+Specialist;🧠+AI+%26+C+++Research+Enthusiast;🎯+Software+Engineering+Student" alt="Typing SVG" />
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📱-Mobile_Development-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚡-Flutter_Framework-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/☁️-Firebase_Integration-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🧠-AI_Research-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadtaqinaqvi&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/syedmuhammadtaqinaqvi)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-taqi-naqvi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)
+### 🌟 *Transforming Ideas into Scalable, Intelligent, and Elegant Mobile Solutions*
 
 </div>
 
@@ -38,32 +19,22 @@
 <td width="35%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
-*🎯 Current Status*
-
-🎓 BS Software Engineering Student  
+**🎓 Current Status**  
 📱 Mobile Application Developer  
 ⚡ Flutter & Firebase Specialist  
 🧠 AI & C++ Enthusiast  
+🎯 Software Engineering Student  
 
 </td>
 <td width="65%">
 
-### *🚀 About Me*
-I’m a dedicated **Mobile Application Developer** specializing in **Flutter** for cross-platform solutions and **Firebase** for backend integration.  
-Alongside mobile development, I explore **AI research and C++ programming** for problem-solving, algorithms, and intelligent systems.  
+### 🚀 *About Me*  
+I’m a **Mobile Application Developer** with expertise in **Flutter** for cross-platform apps and **Firebase** for backend integration.  
+I build apps that are not just functional, but also **beautiful, scalable, and user-centric**.  
 
-### *🎯 Mission Statement*
-> "Building elegant, innovative, and scalable mobile solutions while pushing the boundaries of AI and technology."
+Alongside mobile development, I dive into **AI & C++ research**, focusing on algorithms, intelligent systems, and high-performance solutions.  
 
-### *🔬 Core Expertise*
-- *📱 Mobile Development* – Flutter, Dart, State Management (Provider, Riverpod, Bloc)  
-- *☁️ Firebase Integration* – Auth, Firestore, Cloud Functions, Push Notifications  
-- *🤖 AI/ML* – Google ML Kit, OCR, Barcode scanning, Computer Vision  
-- *💻 Backend Knowledge* – REST APIs, Node.js, MySQL  
-- *🧠 C++ Programming* – OOP, Algorithms, Data Structures  
-
-### *💡 Professional Values*
-Innovation • Scalability • User Experience • Research-Driven Development  
+✨ My mission: *To engineer mobile apps that shape the future of technology.*  
 
 </td>
 </tr>
@@ -71,11 +42,11 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="25"> *Technology Stack*
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="25"> *Tech Stack & Skills*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,androidstudio,java,python,cpp,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,cpp,python,mysql,git,github&theme=dark" />
 
 </div>
 
@@ -87,47 +58,26 @@ Innovation • Scalability • User Experience • Research-Driven Development
 <tr>
 <td width="50%">
 
-### *📱 Health & Meal Scanner App*
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150" align="right">
+### 📱 *Health & Meal Scanner App*  
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="140" align="right">
 
-*🎯 Features:*
-- Barcode & OCR scanning using **Google ML Kit**  
-- Meal recommendations with health insights  
-- Firebase for user history and authentication  
+- Barcode & OCR scanning with **Google ML Kit**  
+- Meal recommendations & health insights  
+- Firebase Authentication & User History  
 
-[![View Code](https://img.shields.io/badge/🔗_Source_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
+[![View Repo](https://img.shields.io/badge/🔗_View_Repo-00D9FF?style=for-the-badge&logo=github)](https://github.com/syedmuhammadtaqinaqvi)
 
 </td>
 <td width="50%">
 
-### *🗺️ Map & Navigation App*
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150" align="right">
+### 🗺️ *Map & Navigation App*  
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140" align="right">
 
-*🎯 Features:*
-- Live tracking with **Flutter Map API**  
-- Custom markers & route drawing  
-- Firebase for location data and user management  
+- Real-time tracking with **Flutter Map API**  
+- Custom markers & route optimization  
+- Firebase integration for location data  
 
-[![View Project](https://img.shields.io/badge/🔗_View_Online-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> *AI & C++ Research (Side Focus)*  
-
-<table>
-<tr>
-<td width="100%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-*Areas of Interest:*  
-- **C++ Programming** – Algorithms • Data Structures • OOP  
-- **AI Research** – Machine Learning • Computer Vision • Intelligent Systems  
-- **Use Cases** – Automation, Optimization, Smart Applications  
+[![View Repo](https://img.shields.io/badge/🔗_View_Repo-00D9FF?style=for-the-badge&logo=github)](https://github.com/syedmuhammadtaqinaqvi)
 
 </td>
 </tr>
@@ -135,15 +85,41 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> *Connect & Collaborate*
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> *AI & C++ Research*
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmtaqinaqvi55@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-taqi-naqvi)  
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)  
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
 
-✨ Open to collaborations on **Flutter Projects**, **Firebase Integrations**, and **AI/ML-powered mobile apps**.  
+**Areas of Focus:**  
+⚙️ C++ for OOP, Data Structures, and Algorithms  
+🤖 Machine Learning & Computer Vision  
+🚀 Intelligent Systems & Optimization  
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> *GitHub Stats & Activity*
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadtaqinaqvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadtaqinaqvi&theme=tokyonight&hide_border=true" width="48%"/>  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadtaqinaqvi&theme=react-dark&hide_border=true&area=true" width="100%"/>  
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> *Let’s Connect*
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-taqi-naqvi)  
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)  
+[![Email](https://img.shields.io/badge/📧_Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmtaqinaqvi55@gmail.com)  
 
 </div>
 
@@ -151,9 +127,9 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 <div align="center">
 
-### *💭 Final Thoughts*
-<img src="https://img.shields.io/badge/🚀-Transforming_Ideas_into_Apps-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
-<img src="https://img.shields.io/badge/🤝-Let's_Collaborate_and_Build_Future_Tech!-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
+### ✨ *Final Thoughts*  
+<img src="https://img.shields.io/badge/🚀-Turning_Ideas_into_Reality-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
+<img src="https://img.shields.io/badge/🤝-Let's_Build_Future_Tech_Together!-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
 
 </div>
 
