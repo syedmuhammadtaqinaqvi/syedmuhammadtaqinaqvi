@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Syed%20Muhammad%20Taqi%20Naqvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Mobile+Application+Developer;Flutter+Developer;Firebase+Specialist;C%2B%2B+Programmer;AI+Research+Enthusiast" alt="Typing SVG" />
-
-<br>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D9FF,FF00FF,FFD700&center=true&vCenter=true&multiline=true&width=1000&lines=🚀+Mobile+Application+Developer;💡+Flutter+%26+Firebase+Specialist;🤖+AI+Research+Enthusiast;💻+C%2B%2B+Programmer;🌍+Open+to+Collaboration" alt="Typing SVG" />
+</h2>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadtaqinaqvi&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/syedmuhammadtaqinaqvi)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-naqvi-b89867282/)
@@ -14,18 +14,18 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Professional Overview
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Professional Overview  
 
 <table>
 <tr>
 <td width="35%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
-**🎯 Current Roles**
+**🎯 Current Roles**  
 - 📱 Mobile App Developer  
 - ⚡ Flutter & Firebase Specialist  
 - 💻 C++ Programmer  
-- 🧠 AI Research Enthusiast  
+- 🤖 AI Research Enthusiast  
 
 </td>
 <td width="65%">
@@ -53,11 +53,11 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack  
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,androidstudio,java,python,cpp,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,androidstudio,java,python,cpp,mysql,git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -130,6 +130,12 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 ---
 
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/syedmuhammadtaqinaqvi/syedmuhammadtaqinaqvi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <div align="center">
 
 ## 💭 Final Thoughts  
@@ -139,6 +145,9 @@ Innovation • Scalability • User Experience • Research-Driven Development
 
 ✨ *"Code is not just logic, it's an art of turning imagination into reality."* ✨  
 
+⭐ From [Syed Muhammad Taqi Naqvi](https://github.com/syedmuhammadtaqinaqvi)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=footer&animation=twinkling"/>
+
