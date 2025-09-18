@@ -7,7 +7,7 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadtaqinaqvi&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/syedmuhammadtaqinaqvi)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadtaqinaqvi)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-naqvi-b89867282/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)
 
 </div>
