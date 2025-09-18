@@ -1,10 +1,4 @@
-Understood — here’s a **single, copy-paste-ready README.md** file designed to be long (\~500 lines), luxurious, highly animated (only with GitHub-compatible animations and reliable external services), and visually dramatic. It uses animated banners, typing SVGs, capsule-render gradients, GIF dividers, animated stats, mermaid timeline, contribution snake, project cards, skill meters, and explicit fallbacks. Replace the placeholders (YOUR\_GITHUB\_USERNAME, YOUR\_PORTFOLIO\_URL, YOUR\_EMAIL, YOUR\_LINKEDIN) with your actual links.
 
-> IMPORTANT: GitHub sanitizes CSS/JS in READMEs. This file uses only supported embeds (images, SVG endpoints, mermaid, GIFs, shields, and GitHub stats). Advanced illusions are achieved with animated images and reliable endpoints. If any external image fails to load, the README includes fallback text suggestions in comments.
-
-Copy everything below into your `README.md` (one file):
-
-```markdown
 <!-- ====================================================================== -->
 <!-- ======================  SYED MUHAMMAD TAQI NAQVI  ====================== -->
 <!-- ====================================================================== -->
@@ -380,16 +374,4 @@ class AnimatedCard extends StatelessWidget {
 
 > Thank you for viewing my digital atelier — code that feels like design, and design that runs like code.
 
-<!-- End of README -->
 
-```
-
----
-
-If you want, I can:
-- Replace all external GIF/asset URLs with images uploaded to a repo I prepare (so nothing breaks).  
-- Produce a second **dark neon** or **minimalist** variant.  
-- Generate a `.github/workflows/update-readme.yml` Action that auto-updates a `Currently` section daily.
-
-Tell me which one you want next and I’ll create it (I will output the code directly so you can paste it).
-```
