@@ -1,95 +1,144 @@
-<!-- ============================================================= -->
-<!--                      TAQI NAQVI — README                      -->
-<!--       Dark Futuristic Luxury Profile — Single File Version    -->
-<!-- ============================================================= -->
-
 <div align="center">
 
-<!-- HEADER -->
-<img alt="header" width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b1220,07122b,08203a,00ffd5&height=220&section=header&text=Taqi%20Naqvi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Syed%20Muhammad%20Taqi%20Naqvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=850&lines=Creative+Engineer+%7C+Flutter+%7C+AI;Design+Mindset+%2B+Engineering+Precision;Turning+Ideas+into+Elegant+Apps" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Mobile+Application+Developer;Flutter+Developer;Firebase+Specialist;C%2B%2B+Programmer;AI+Research+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taqinaqvi&color=00ffd5" />
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/taqinaqvi"><img src="https://img.shields.io/badge/GitHub-@taqinaqvi-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadtaqinaqvi&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/syedmuhammadtaqinaqvi)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-naqvi-b89867282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)
+
 </div>
 
 ---
 
-# ✨ Welcome — Taqi Naqvi  
-*Crafting elegant mobile experiences with Flutter, Firebase, and AI.*  
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Professional Overview
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+
+**🎯 Current Roles**
+- 📱 Mobile App Developer  
+- ⚡ Flutter & Firebase Specialist  
+- 💻 C++ Programmer  
+- 🧠 AI Research Enthusiast  
+
+</td>
+<td width="65%">
+
+### 🚀 About Me
+I’m a passionate **Mobile Application Developer** with expertise in **Flutter** and **Firebase**, building cross-platform, scalable, and user-friendly apps.  
+I also explore **AI & C++ research** to design efficient algorithms and intelligent systems.  
+
+### 🎯 Mission Statement
+> "Transforming ideas into elegant, scalable, and intelligent digital experiences."
+
+### 🔬 Core Expertise
+- 📱 Flutter (Dart, Riverpod, Bloc, Provider)  
+- ☁️ Firebase (Auth, Firestore, Cloud Functions, Push Notifications)  
+- 🤖 AI/ML (Google ML Kit, OCR, Computer Vision)  
+- 💻 Backend (REST APIs, Node.js, MySQL)  
+- 🧠 C++ (OOP, DS & Algo, Competitive Coding)  
+
+### 💡 Professional Values
+Innovation • Scalability • User Experience • Research-Driven Development  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Universe  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,python,androidstudio,git,github,vscode,figma,tf,opencv&perline=8" />
-</p>
+## 🛠️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,androidstudio,java,python,cpp,mysql,git&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 Skill Levels  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-92%25-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-90%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-86%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML-76%25-00C853?style=for-the-badge" />
-</p>
+## 📂 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Health & Meal Scanner App
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="140" align="right">
+
+**Features**  
+- Barcode & OCR Scanning (Google ML Kit)  
+- Meal Recommendations with Health Insights  
+- Firebase Integration (Auth + Cloud Storage)  
+
+[![View Code](https://img.shields.io/badge/🔗_Source_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
+
+</td>
+<td width="50%">
+
+### 🗺️ Map & Navigation App
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140" align="right">
+
+**Features**  
+- Live Tracking with **Flutter Maps**  
+- Custom Markers & Route Drawing  
+- Firebase for Real-Time Location Data  
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Flagship Projects  
+## 🤖 AI & C++ Research  
 
-### Fashion Fusion — AI Stylist  
-<img align="right" width="300" src="https://media.giphy.com/media/xT0Gqz2D4Cg1y1jN6E/giphy.gif" />
-Personal styling app with ML-driven outfit suggestions.  
+<div align="center">
 
-**Tech:** Flutter, TensorFlow Lite, Firebase  
-**Repo:** [Fashion Fusion](https://github.com/taqinaqvi/fashion-fusion)  
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
 
----
+**Focus Areas**  
+- 🧠 C++ (OOP • Data Structures • Algorithms)  
+- 🤖 AI/ML (Machine Learning • Computer Vision)  
+- ⚡ Use Cases (Automation • Optimization • Smart Apps)  
 
-### Health Scanner — OCR + Barcode  
-<img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
-OCR + barcode scanner for nutrition insights.  
-
-**Tech:** Flutter, ML Kit, Firestore  
-**Repo:** [Health Scanner](https://github.com/taqinaqvi/health-scanner)  
+</div>
 
 ---
 
-### Map Navigation  
-<img align="right" width="300" src="https://media.giphy.com/media/l3vQW8U3z8n4g4iKk/giphy.gif" />
-Custom maps with live tracking & route drawing.  
+## 📊 GitHub Performance Dashboard  
 
-**Tech:** Flutter, Firestore  
-**Repo:** [Map Navigation](https://github.com/taqinaqvi/map-navigation)  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadtaqinaqvi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadtaqinaqvi&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="49%"/>  
+<img src="https://streak-stats.demolab.com/?user=syedmuhammadtaqinaqvi&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="49%"/>  
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadtaqinaqvi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadtaqinaqvi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-## ⏳ Professional Timeline  
-```mermaid
-timeline
-    title Taqi Naqvi — Coding Journey
-    2019 : 🧩 C++ & Data Structures
-    2020 : 📱 Started Flutter
-    2021 : ☁️ Firebase + Full-stack Apps
-    2022 : 🤖 Mobile ML Experiments
-    2023 : 🚀 Fashion Fusion + Health Scanner
-    2024 : ⚡ Performance Optimizations
-    2025 : 🌐 Scaling Products
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taqinaqvi&show_icons=true&theme=dracula" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqinaqvi&layout=compact&theme=dracula" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=taqinaqvi&theme=dracula" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=taqinaqvi&theme=dracula&column=6" width="48%" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/taqinaqvi/taqinaqvi/output/github-contribution-grid-snake.svg" /> </p>
-🤝 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
-<p align="center"> <img alt="footer" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=07122b,08203a,00ffd5&height=100&section=footer&text=Thanks+for+visiting!&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" /> </p> ```
+<div align="center">
+
+## 💭 Final Thoughts  
+
+<img src="https://img.shields.io/badge/🚀-Transforming_Ideas_into_Apps-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
+<img src="https://img.shields.io/badge/🤝-Let's_Collaborate_and_Build_Future_Tech!-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
+
+✨ *"Code is not just logic, it's an art of turning imagination into reality."* ✨  
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=footer&animation=twinkling"/>
