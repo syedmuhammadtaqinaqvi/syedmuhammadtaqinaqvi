@@ -1,373 +1,144 @@
-```markdown
-<!-- ============================================================= -->
-<!--                      TAQI NAQVI — README                        -->
-<!--            Dark Futuristic Luxury Profile — Single File         -->
-<!--   Copy & paste this entire file into your GitHub profile README -->
-<!--                 (repo name must match your username)           -->
-<!-- ============================================================= -->
-
-<!-- ========================= HERO / HEADER ======================= -->
 <div align="center">
 
-<!-- Capsule-render gradient banner (dark / neon palette) -->
-<img alt="hero-banner" width="100%"
- src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b1220,07122b,08203a,00ffd5&height=220&section=header&text=Taqi%20Naqvi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Syed%20Muhammad%20Taqi%20Naqvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Typing tagline (Orbitron) — short, techy, reliable -->
-<p>
-  <img alt="typing-tagline" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3500&pause=1000&color=00ffd5,7c7cff,00d9ff&center=true&vCenter=true&width=920&lines=Creative+Engineer+%7C+Flutter+%7C+AI+%7C+Performance;Design+Mindset+%2B+Engineering+Precision" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Mobile+Application+Developer;Flutter+Developer;Firebase+Specialist;C%2B%2B+Programmer;AI+Research+Enthusiast" alt="Typing SVG" />
 
-<!-- Contact / Quick Badges -->
-<p align="center">
-  <img alt="profile-views" src="https://komarev.com/ghpvc/?username=taqinaqvi&color=00ffd5" />
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL"><img alt="email" src="https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/taqinaqvi"><img alt="github" src="https://img.shields.io/badge/GitHub-@taqinaqvi-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=syedmuhammadtaqinaqvi&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/syedmuhammadtaqinaqvi)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqi-naqvi-b89867282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)
 
 </div>
 
 ---
 
-<!-- Neon divider -->
-<p align="center">
-  <img alt="neon-divider" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" />
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Professional Overview
 
-# ✨ Welcome — Taqi Naqvi
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
-> *I craft elegant mobile experiences and bring ML into pocket-sized apps. I balance polish and performance — design-first thinking, engineering-level rigor.*
+**🎯 Current Roles**
+- 📱 Mobile App Developer  
+- ⚡ Flutter & Firebase Specialist  
+- 💻 C++ Programmer  
+- 🧠 AI Research Enthusiast  
 
----
+</td>
+<td width="65%">
 
-## 🔭 Quick Snapshot
+### 🚀 About Me
+I’m a passionate **Mobile Application Developer** with expertise in **Flutter** and **Firebase**, building cross-platform, scalable, and user-friendly apps.  
+I also explore **AI & C++ research** to design efficient algorithms and intelligent systems.  
 
-- **Role:** Mobile App Engineer — Flutter & Firebase  
-- **Specialties:** On-device ML (TFLite), OCR, UI/UX micro-interactions, performance optimization, C++ algorithms  
-- **Based:** Pakistan 🇵🇰 — open to remote work & collaboration  
-- **Focus:** Building production-ready apps with delightful UX and efficient ML
+### 🎯 Mission Statement
+> "Transforming ideas into elegant, scalable, and intelligent digital experiences."
 
----
+### 🔬 Core Expertise
+- 📱 Flutter (Dart, Riverpod, Bloc, Provider)  
+- ☁️ Firebase (Auth, Firestore, Cloud Functions, Push Notifications)  
+- 🤖 AI/ML (Google ML Kit, OCR, Computer Vision)  
+- 💻 Backend (REST APIs, Node.js, MySQL)  
+- 🧠 C++ (OOP, DS & Algo, Competitive Coding)  
 
-## 🧭 Design + Engineering Philosophy
+### 💡 Professional Values
+Innovation • Scalability • User Experience • Research-Driven Development  
 
-- **Product-first:** Every feature must solve a real problem.  
-- **Performance-aware:** Optimize for battery, memory, and latency.  
-- **Design-led:** Micro-interactions, motion, and thoughtful UX.  
-- **Research-to-production:** Prototype ML ideas, then harden, test and ship.
-
----
-
-<!-- ========================== TECH GRID ========================== -->
-## 🛠 Core Tech Universe (Dark Futuristic Grid)
-
-<p align="center">
-  <img alt="skills-grid" src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,cpp,python,git,github,vscode,figma,tf,opencv&perline=8" />
-</p>
-
-> Icons powered by `skillicons.dev` — click to scan. For maximum reliability, you can download these icons and host them in your repo `/assets/`.
-
----
-
-## 🧠 Skill Levels — Visual Meters
-
-<p align="center">
-  <img alt="Flutter badge" src="https://img.shields.io/badge/Flutter-92%25-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Firebase badge" src="https://img.shields.io/badge/Firebase-90%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img alt="C++ badge" src="https://img.shields.io/badge/C%2B%2B-86%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="AI badge" src="https://img.shields.io/badge/AI%2FML-76%25-00C853?style=for-the-badge" />
-  <img alt="Backend badge" src="https://img.shields.io/badge/Backend-82%25-7C7CFF?style=for-the-badge" />
-</p>
-
-<details>
-<summary><b>Human-readable skill table</b> — click to expand</summary>
-
-```
-
-Flutter / Dart           ████████████████████ 92%
-Firebase & Cloud         ███████████████████  90%
-C++ & Algorithms         ████████████████░░  86%
-On-device ML (TFLite)    ████████████░░░░░   76%
-Backend (Node / APIs)    ██████████████░░░   82%
-UI/UX & Motion Design    ███████████░░░░░    70%
-
-````
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ======================= FEATURE PROJECTS ======================= -->
-## 🚀 Flagship Projects — long-form showcase
+## 🛠️ Technology Stack
 
-> Each project below includes problem, approach, key features, tech, and run/demo instructions. GIFs and images are tech-focused.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,androidstudio,java,python,cpp,mysql,git&theme=dark" />
 
-### 1) Fashion Fusion — AI Personal Stylist (Flagship)
-<img align="right" alt="fashion-demo" width="300"
- src="https://media.giphy.com/media/xT0Gqz2D4Cg1y1jN6E/giphy.gif" />
-
-**Problem:** Users have wardrobes but no intelligent assistant to combine items into stylish outfits for occasions and weather.
-
-**Approach:** Hybrid on-device + server inference. On-device TFLite classifier tags garments; server-side ranker recommends outfits using rules + lightweight ML.
-
-**Key Features**
-- Wardrobe ingestion & auto-tagging  
-- Weather-aware outfit suggestions  
-- Occasions & personal preference filters  
-- Saveable lookbooks & share links
-
-**Tech**
-- Flutter front-end, TensorFlow Lite (quantized), Node.js microservices, Firebase Auth & Firestore
-
-**Run / Demo**
-```bash
-git clone https://github.com/taqinaqvi/fashion-fusion
-cd fashion-fusion
-flutter pub get
-flutter run
-````
+</div>
 
 ---
 
-### 2) Health & Meal Scanner — OCR + Barcode + Insights
+## 📂 Featured Projects  
 
-<img align="left" alt="health-demo" width="300"
-src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+<table>
+<tr>
+<td width="50%">
 
-**Problem:** Quickly capture nutrition information from packaged foods with minimal typing.
+### 📱 Health & Meal Scanner App
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="140" align="right">
 
-**Approach:** Barcode-first lookup; OCR (ML Kit) fallback for damaged labels; local caching for speed and offline resilience.
+**Features**  
+- Barcode & OCR Scanning (Google ML Kit)  
+- Meal Recommendations with Health Insights  
+- Firebase Integration (Auth + Cloud Storage)  
 
-**Key Features**
+[![View Code](https://img.shields.io/badge/🔗_Source_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
 
-* Barcode lookup + OCR fallback
-* Meal logging, daily summaries, quick insights
-* Firebase-based cross-device sync
+</td>
+<td width="50%">
 
-**Tech**
+### 🗺️ Map & Navigation App
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140" align="right">
 
-* Flutter, Google ML Kit OCR, Firestore, REST API for barcode lookup
+**Features**  
+- Live Tracking with **Flutter Maps**  
+- Custom Markers & Route Drawing  
+- Firebase for Real-Time Location Data  
 
-**Run / Demo**
+[![View Project](https://img.shields.io/badge/🔗_View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmuhammadtaqinaqvi)
 
-```bash
-git clone https://github.com/taqinaqvi/health-scanner
-cd health-scanner
-flutter pub get
-flutter run
-```
-
----
-
-### 3) Map & Real-Time Navigation — Brandable Map Engine
-
-<img align="right" alt="map-demo" width="300"
-src="https://media.giphy.com/media/l3vQW8U3z8n4g4iKk/giphy.gif" />
-
-**Problem:** Field teams need a lightweight, brandable map app with real-time tracking and offline support.
-
-**Approach:** `flutter_map` (OpenStreetMap) frontend + Firestore for real-time position streaming; SVG markers and tile caching.
-
-**Key Features**
-
-* Custom markers & branding
-* Recenter / zoom / route drawing
-* Real-time location streaming & geofencing
-
-**Tech**
-
-* Flutter, flutter\_map, Firestore
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ======================= ANIMATED DIVIDER ======================= -->
+## 🤖 AI & C++ Research  
 
-<p align="center">
-  <img alt="glow-divider" src="https://media.giphy.com/media/3o6gE5aY2Fk4D3b7aQ/giphy.gif" width="100%" />
-</p>
+<div align="center">
 
-## ⏳ Professional Timeline — Mermaid
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
 
-```mermaid
-timeline
-    title Taqi Naqvi — Journey of Craft & Code
-    2019 : 🧩 Began with C++ & data structures
-    2020 : 📱 Adopted Flutter; shipped hobby apps
-    2021 : 🏗 Built full-stack prototypes; learned Firebase
-    2022 : 🤖 Started mobile ML experiments (OCR & CV)
-    2023 : 🚀 Fashion Fusion prototype & Health Scanner MVP
-    2024 : ⚡ Performance optimizations & production hardening
-    2025 : 🌐 Scaling products & design systems focus
-```
+**Focus Areas**  
+- 🧠 C++ (OOP • Data Structures • Algorithms)  
+- 🤖 AI/ML (Machine Learning • Computer Vision)  
+- ⚡ Use Cases (Automation • Optimization • Smart Apps)  
+
+</div>
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+## 📊 GitHub Performance Dashboard  
 
-## 📈 GitHub Live Widgets — Stats & Activity
+<div align="center">
 
-<p align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=taqinaqvi&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" width="48%" />
-  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqinaqvi&layout=compact&theme=dracula" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadtaqinaqvi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
 
-<p align="center">
-  <img alt="streak" src="https://streak-stats.demolab.com?user=taqinaqvi&theme=dracula" width="48%" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=taqinaqvi&theme=dracula&column=6" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadtaqinaqvi&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="49%"/>  
+<img src="https://streak-stats.demolab.com/?user=syedmuhammadtaqinaqvi&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="49%"/>  
 
-> If any widget returns blank due to rate-limits, host a fallback PNG in `/assets/` and point the URL to `raw.githubusercontent.com/...`.
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadtaqinaqvi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadtaqinaqvi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-## 🐍 Contribution Snake & Activity Graph
-
-<p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/taqinaqvi/taqinaqvi/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img alt="activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taqinaqvi&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
+</div>
 
 ---
 
-<!-- ======================= LIVE CODE GIFS ======================= -->
+<div align="center">
 
-## 🔎 Live Code & UI Demos (Tech-Focused GIFs)
+## 💭 Final Thoughts  
 
-<p align="center">
-  <img alt="terminal-typing" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
-  &nbsp;&nbsp;
-  <img alt="ui-scroll" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="420" />
-</p>
+<img src="https://img.shields.io/badge/🚀-Transforming_Ideas_into_Apps-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
+<img src="https://img.shields.io/badge/🤝-Let's_Collaborate_and_Build_Future_Tech!-00D9FF?style=for-the-badge&labelColor=0D1117"/>  
 
-> GIFs are curated for coding and UI previews. For max reliability upload GIFs to your repo `/assets/` folder and replace URLs with `raw.githubusercontent.com/...`.
+✨ *"Code is not just logic, it's an art of turning imagination into reality."* ✨  
 
----
+</div>
 
-## 🧩 Engineering Patterns — Snippets
-
-### Flutter — Animated Card (Reusable)
-
-```dart
-class AnimatedCard extends StatelessWidget {
-  final Widget child;
-  const AnimatedCard({required this.child, Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return AnimatedContainer(
-      duration: const Duration(milliseconds: 450),
-      curve: Curves.easeOutCubic,
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        gradient: const LinearGradient(colors: [Color(0xFF00FFD5), Color(0xFF7C7CFF)]),
-        borderRadius: BorderRadius.circular(16),
-        boxShadow: const [BoxShadow(color: Colors.black26, blurRadius: 18, offset: Offset(0,8))],
-      ),
-      child: child,
-    );
-  }
-}
-```
-
-### C++ — Small performance-minded snippet
-
-```cpp
-// Fast integer power (exponentiation by squaring)
-long long fastPow(long long base, long long exp) {
-    long long res = 1;
-    while (exp > 0) {
-        if (exp & 1) res = res * base;
-        base = base * base;
-        exp >>= 1;
-    }
-    return res;
-}
-```
-
----
-
-<!-- ========================= ARTICLES & TALKS ====================== -->
-
-## 📝 Articles, Talks & Experiments
-
-* *Mobile OCR: practical tips for on-device ML (notes available on request)*
-* *Design systems for Flutter — internal talk material (DM for slides)*
-* Ongoing experiments: model quantization, tiny ML, image pre-processing for mobile.
-
----
-
-## 🏅 Achievements (Strong & Believable Highlights)
-
-* Shipped **8+ production apps** (Play Store / internal deployments)
-* Contributed Flutter utilities adopted by teams (top contributor)
-* Reduced inference latency by **4x** in a performance pipeline via pruning & quantization
-* Led design-system adoption increasing developer velocity by **\~30%**
-
----
-
-<!-- ========================= PROJECT LINKS ======================== -->
-
-## 🔗 Quick Links — Repos & Demos
-
-* Fashion Fusion — `https://github.com/taqinaqvi/fashion-fusion`
-* Health Scanner — `https://github.com/taqinaqvi/health-scanner`
-* Map Navigation — `https://github.com/taqinaqvi/map-navigation`
-* kakorot\_scanner — `https://github.com/taqinaqvi/kakorot_scanner`
-
-> Replace or update these links if your repos use different names.
-
----
-
-## 🤝 Let's Collaborate
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-7C7CFF?style=for-the-badge" /></a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img alt="email" src="https://img.shields.io/badge/Email-Contact-ff6b6b?style=for-the-badge" /></a>
-</p>
-
----
-
-## ♿ Accessibility & Fallbacks
-
-* All images include `alt` text. If external GIFs fail, GitHub shows the alt text.
-* For complete reliability, upload important images/GIFs to `/assets/` in your repo and use `raw.githubusercontent.com` links.
-* Mermaid diagrams include textual timeline above as fallback.
-
----
-
-## ✅ Quick Setup — How to paste this file
-
-1. Create a repo named exactly: `taqinaqvi` (if not already).
-2. Open `README.md` in that repo, click the pencil ✏️ to edit.
-3. **Replace** placeholder strings near the bottom:
-
-   * `YOUR_PORTFOLIO_URL` → your portfolio (or remove link)
-   * `YOUR_LINKEDIN` → your LinkedIn profile URL
-   * `YOUR_EMAIL` → your contact email
-4. Paste this entire file (overwrite existing content) and **Commit changes**.
-5. Optional: upload any GIFs to `/assets/` and update URLs for guaranteed rendering.
-
----
-
-<!-- ========================== FOOTER ============================= -->
-
-<p align="center">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=07122b,08203a,00ffd5&height=100&section=footer&text=Thank+you+for+visiting&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
-
-> *This README is crafted to balance visual impact and GitHub compatibility. It uses SVGs, GIFs, and dynamic widgets that GitHub allows — no CSS/JS tricks (those aren't supported). If you want every asset self-hosted (no external calls), I can produce an `assets/` zip and update the file with raw URLs so nothing depends on external hosts.*
-
-<!-- End of README -->
-
-```
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=footer&animation=twinkling"/>
